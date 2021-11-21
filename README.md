@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋!  I am Andi Ahmad</h1>
+<h3 align ="center"> A Mobile Developer | Flutter, Kotlin</h3>
 
-<!--
-**andiahmads/andiahmads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andiahmads&theme=synthwave&hide_border=true)
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andiahmads&show_icons=true&theme=radical&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andiahmads&theme=synthwave&layout=compact&hide_border=true&count_private=true&show_icons=true)
+
+  ***Business? Ping me at [andi.fivesco@gmail.com](mailto:andi.fivesco@gmail.com?subject=[Business]%20Hi!)***
+</div>
