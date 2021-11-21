@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋!  I am Andi Ahmad</h1>
-<h3 align ="center"> A Mobile Developer | Flutter, Kotlin</h3>
+<h3 align ="center"> A software engineer</h3>
 
 <div align="center">
   
