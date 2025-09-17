@@ -16,7 +16,7 @@
 - 🛠️ Enjoy tinkering with **esoteric languages**, compilers, and weird algorithms.
 - 🐧 Deep interest in **operating systems**, **compilers**, and **network protocols**.
 - 🚀 Love solving complex problems with simple, elegant solutions.
-- 🌱 Currently exploring **Go**,**C**, **C++**,**python**,**javascript**,**nim**,**odin** **.
+- 🌱 Currently exploring **Go**, **C**, **C++**, **python**, **javascript**, **nim**, **odin**.
 
 ---
 
